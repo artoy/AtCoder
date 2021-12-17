@@ -1,1 +1,1 @@
-# AtCoder 練習用・本番用リポジトリ
+# AtCoder練習用リポジトリ (archived)
