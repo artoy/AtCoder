@@ -1,0 +1,15 @@
+{
+  "files.associations": {
+    "iostream": "cpp",
+    "vector": "cpp",
+    "ostream": "cpp",
+    "iosfwd": "cpp",
+    "utility": "cpp",
+    "algorithm": "cpp",
+    "chrono": "cpp",
+    "limits": "cpp",
+    "random": "cpp",
+    "ratio": "cpp",
+    "valarray": "cpp"
+  }
+}
