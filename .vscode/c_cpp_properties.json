@@ -3,7 +3,7 @@
       {
           "name": "Mac",
           "includePath": [
-              "/Library/Developer/CommandLineTools/usr/include/c++/v1"
+              ["/Library/Developer/CommandLineTools/usr/include/c++/v1"], ["./ac-library/**"]
           ],
           "cStandard": "c17",
           "cppStandard": "c++20",
