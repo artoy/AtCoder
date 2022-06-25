@@ -1,4 +1,4 @@
-# AtCoder用リポジトリ]
+# AtCoder用リポジトリ
 
 ## 使い方
 ### atcoder へのログイン
