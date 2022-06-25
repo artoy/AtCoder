@@ -1,21 +1,30 @@
 # AtCoder用リポジトリ]
 
 ## 使い方
-atcoder へのログイン
+### atcoder へのログイン
 
-`acc login`
+```
+acc login
+```
 
-コンテスト用のディレクトリの作成（constestID にはコンテストの URL の https://atcoder.jp/contests/ 以下を入れる。）
+### コンテスト用のディレクトリの作成
+（constestID にはコンテストの URL の https://atcoder.jp/contests/ 以下を入れる。）
 
-`acc new <contestID>`
+```
+acc new <contestID>
+```
 
-サンプルケースのテスト
+### サンプルケースのテスト
 
-`-d ./tests/`
+```
+-d ./tests/
+```
 
-コードの提出
+### コードの提出
 
-`acc submit <ファイル名>`
+```
+acc submit <ファイル名>
+```
 
 ### 参考文献
 - [atcoder初心者こそ環境構築しよう！(atcoder-cli,online-judge-toolsのインストール、使い方）](https://qiita.com/Adaachill/items/3d4ddad56c5c2cc372cd)
