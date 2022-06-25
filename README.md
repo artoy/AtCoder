@@ -1,4 +1,4 @@
-# AtCoder用リポジトリ
+# atcoder-vscode
 
 ## 使い方
 ### atcoder へのログイン
@@ -15,9 +15,10 @@ acc new <contestID>
 ```
 
 ### サンプルケースのテスト
+ファイル名の部分にはビルド後のファイルを指定する
 
 ```
--d ./tests/
+oj test -c ./<ファイル名> -d ./tests
 ```
 
 ### コードの提出

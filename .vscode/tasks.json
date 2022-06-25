@@ -6,6 +6,8 @@
       "command": "/usr/bin/clang++",
       "args": [
         "-std=c++20",
+        "-I",
+        "/Users/artoy/git/atcoder-vscode/ac-library",
         "-fdiagnostics-color=always",
         "-g",
         "${file}",
