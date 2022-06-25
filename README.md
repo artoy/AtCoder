@@ -2,15 +2,19 @@
 
 ## 使い方
 atcoder へのログイン
+
 `acc login`
 
 コンテスト用のディレクトリの作成（constestID にはコンテストの URL の https://atcoder.jp/contests/ 以下を入れる。）
+
 `acc new <contestID>`
 
 サンプルケースのテスト
+
 `-d ./tests/`
 
 コードの提出
+
 `acc submit <ファイル名>`
 
 ### 参考文献
